@@ -3,6 +3,8 @@ Our GGJ 2022 Game!
 
 This game is our GGJ 2022 game made with me, Tuna Sofiyar, Bedrettin Cerrah. It contains top down movement for separate 2 players (local multiplayer), collecting and throwing/putting puzzle pieces, throwing bombs (shooting mechanics), time element, UI, etc. Game is made with Construct 3 engine.
 
+**Directly Play The Game Here:** https://turguteyupcan.itch.io/tower-defence
+#
 **How to Open Source File and Reach Codes (Events)**
 
 * Download the .c3p file.
